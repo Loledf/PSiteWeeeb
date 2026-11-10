@@ -1,0 +1,13 @@
+{
+  "category": "reports",
+  "title": "Bellingcat write-up report",
+  "description": "OSINT CTF write-up — решение задачки по военной разведке, идентификация боеприпаса. ",
+  "type": "author report",
+  "background": "image/report2.jpg",
+  "number": "#R-002",
+  "meta": "@webpowe",
+  "link": "reports/report2.pdf",
+  "button": "Скачать PDF",
+  "enabled": true,
+  "full_description": "Подробный отчёт о проведённом расследовании. Здесь можно указать дополнительные сведения, методологию и результаты."
+}

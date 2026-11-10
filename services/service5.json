@@ -1,0 +1,22 @@
+
+{
+  "category": "services",
+  "title": "Аксессуары",
+  "description": "Префикс в чате канала/форуме (агентство расследований).",
+  "items": [
+    {
+      "title": "Обычный тег",
+      "price": "$0.80$ / 50 stars"
+    },
+    {
+      "title": "Зелёный тег без админских прав",
+      "price": "$2 / 100 stars"
+    },
+    {
+      "title": "Тег с админ-правами",
+      "price": "$3 / 300 stars"
+    }
+  ],
+  "link": "https://t.me/webaoki/18",
+  "enabled": true
+}

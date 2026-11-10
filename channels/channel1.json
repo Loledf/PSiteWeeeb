@@ -1,0 +1,8 @@
+{
+  "category": "channels",
+  "title": "PSiteWeb — основной канал",
+  "description": "Новости проекта, материалы и полезные ссылки.",
+  "background": "image/channel1.jpg",
+  "link": "https://t.me/PSiteWeb",
+  "enabled": true
+}

@@ -1,0 +1,26 @@
+{
+  "channels": [
+    "channel1.json",
+    "channel2.json",
+    "channel3.json"
+  ],
+  "article": [
+    "article1.json",
+    "article2.json",
+    "article3.json",
+    "article4.json",
+    "article5.json",
+    "article6.json"
+  ],
+  "services": [
+    "service1.json",
+    "service2.json",
+    "service3.json",
+    "service4.json",
+    "service5.json"
+  ],
+  "report_cards": [
+    "report1.json",
+    "report2.json"
+  ]
+}

@@ -1,0 +1,14 @@
+
+{
+  "category": "reports",
+  "title": "GEOINT-write-up case",
+  "description": "Отчёт по GEOINT-расследования о пропаже самолёта.",
+  "background": "image/report1.jpg",
+  "type": "author report",
+  "number": "#R-001",
+  "meta": "@webpowe",
+  "link": "reports/report1.pdf",
+  "button": "Скачать PDF",
+  "enabled": true,
+  "full_description": "Подробный отчёт о проведённом расследовании. Здесь можно указать дополнительные сведения, методологию и результаты."
+}
